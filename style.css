@@ -84,26 +84,29 @@
     background-color: hsla(0, 100%, 67%, 0.15);
     text-align: center;
     border-radius: 10px;
+    color: hsl(0, 100%, 17%);
 }
 
 .sum .memory{
     background-color: hsla(39, 100%, 56%, 0.15);
     text-align: center;
     border-radius: 10px;
+    color: hsl(39, 100%, 17%);
 }
 
 .sum .verbal{
     background-color: hsla(166, 100%, 37%, 0.15);
     text-align: center;
     border-radius: 10px;
+    color: hsl(166, 100%, 17%);
 }
 
 .sum .visual{
     background-color: hsla(234, 85%, 45%, 0.15);
     text-align: center;
     border-radius: 10px;
+    color: hsl(234, 100%, 17%);
 }
-
 
 .sum *{
     padding: 8px 10px;
